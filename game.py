@@ -45,6 +45,8 @@ while (a):
                 print "Player, good job!"
                 print "Player :",c1
                 print "Computer :",c2
+print "Player's total points :",c1
+print "Computer's total points :",c2              
 if c1 > c2:
         print "Player, you won!!!!!"
 elif c2 > c1:
